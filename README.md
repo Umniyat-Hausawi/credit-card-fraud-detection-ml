@@ -201,3 +201,8 @@ Through this project, the following concepts were applied and reinforced:
 - Linear vs Non-linear models
 - Model comparison
 - Business-driven decision making
+
+- ## 👤 Author
+
+**Umniyat Hausawi**  
+Aspiring Data Scientist | AI & NLP Projects
